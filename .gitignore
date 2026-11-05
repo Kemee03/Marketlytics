@@ -1,0 +1,29 @@
+# Secrets and local environment
+.env
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+
+# Source data and generated local data
+data/raw/*
+!data/raw/.gitkeep
+data/processed/*
+!data/processed/.gitkeep
+
+# Generated outputs and logs
+logs/*
+!logs/.gitkeep
+visualizations/*
+!visualizations/.gitkeep
+excel/*.xlsx
+tableau/data_sources/*
+!tableau/data_sources/.gitkeep
+tableau/screenshots/*
+!tableau/screenshots/.gitkeep
+*.log
+.ipynb_checkpoints/
+
+excel/*_preview.png
+excel/*.inspect.ndjson
+excel/build/

@@ -1,0 +1,98 @@
+{
+  "generated_at": "2026-11-05T09:00:54.873497+00:00",
+  "currency_note": "Olist item price and freight values are reported as dataset monetary units; confirm currency presentation before publication.",
+  "total_orders": 99441,
+  "orders_with_items": 98666,
+  "total_item_revenue": 13591643.7,
+  "total_freight": 2251909.54,
+  "aov_orders_with_items": 137.75407637889444,
+  "median_order_value": 86.9,
+  "total_customers_source_rows": 99441,
+  "unique_customer_accounts_source": 96096,
+  "delivered_customer_accounts": 93358,
+  "repeat_delivered_accounts": 2801,
+  "repeat_delivered_account_rate_pct": 3.0002784978255748,
+  "average_review_score_all_records": 4.08642062404257,
+  "average_review_score_delivered_orders": 4.156186520855942,
+  "delivered_orders": 96478,
+  "eligible_delivery_duration_orders": 96470,
+  "average_delivery_days": 12.558217098051976,
+  "median_delivery_days": 10.217476851851853,
+  "eligible_on_time_orders": 96470,
+  "on_time_orders": 88644,
+  "on_time_delivery_pct": 91.88763346117965,
+  "top_3_categories": [
+    {
+      "category": "health_beauty",
+      "item_revenue": 1258681.34,
+      "orders": 8836
+    },
+    {
+      "category": "watches_gifts",
+      "item_revenue": 1205005.68,
+      "orders": 5624
+    },
+    {
+      "category": "bed_bath_table",
+      "item_revenue": 1036988.68,
+      "orders": 9417
+    }
+  ],
+  "top_customer_state": "SP",
+  "top_customer_state_revenue": 5202955.05,
+  "top_customer_state_orders": 41375,
+  "largest_valid_mom_growth": {
+    "month": "2017-02",
+    "pct": 105.54992994515051
+  },
+  "rfm_segments": [
+    {
+      "rfm_segment": "Recent one-time",
+      "customer_accounts": 36345,
+      "average_recency_days": 91.44696657036731,
+      "average_delivered_orders": 1.0,
+      "average_item_revenue": 140.3680756637777,
+      "segment_item_revenue": 5101677.71
+    },
+    {
+      "rfm_segment": "Lapsed one-time",
+      "customer_accounts": 36094,
+      "average_recency_days": 396.3595888513326,
+      "average_delivered_orders": 1.0,
+      "average_item_revenue": 139.6405014683881,
+      "segment_item_revenue": 5040184.26
+    },
+    {
+      "rfm_segment": "Core one-time",
+      "customer_accounts": 18118,
+      "average_recency_days": 221.63489347610113,
+      "average_delivered_orders": 1.0,
+      "average_item_revenue": 129.77300971409647,
+      "segment_item_revenue": 2351227.39
+    },
+    {
+      "rfm_segment": "Repeat customers",
+      "customer_accounts": 2686,
+      "average_recency_days": 226.24087862993298,
+      "average_delivered_orders": 2.052122114668652,
+      "average_item_revenue": 250.17998138495906,
+      "segment_item_revenue": 671983.43
+    },
+    {
+      "rfm_segment": "Champions",
+      "customer_accounts": 115,
+      "average_recency_days": 93.94782608695652,
+      "average_delivered_orders": 3.5565217391304347,
+      "average_item_revenue": 490.6549565217391,
+      "segment_item_revenue": 56425.32
+    }
+  ],
+  "payment_values_by_type": {
+    "credit_card": 12542084.19,
+    "boleto": 2869361.27,
+    "voucher": 379436.87,
+    "debit_card": 217989.79,
+    "not_defined": 0.0
+  },
+  "scope": "Historical public Olist data; measures are descriptive and do not imply causation or profit."
+}
